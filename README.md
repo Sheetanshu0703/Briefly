@@ -1,0 +1,2 @@
+# Briefly
+Text Summarizer app 
