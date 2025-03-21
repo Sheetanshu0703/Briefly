@@ -45,4 +45,9 @@ for filepath in list_of_files:
         logging.info(f"{filepath} already exists")
 
 
+# Run this file on terminal with the command Python template.py and all the Directories will be genrated/created
+#in future also if we want to create a directory we just add its name in list_of_file and run this command again
+
+
+
 
